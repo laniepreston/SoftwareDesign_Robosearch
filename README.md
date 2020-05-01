@@ -1,6 +1,6 @@
 # Software Design Final Project
-## Vrije Universiteit Amsterdam
-## By Lanie Preston, Floor Kouwenberg, Lucien Martijn, Sophie Vos, and Chuyi Tong
+## Vrije Universiteit Amsterdam, Spring 2019
+### By Lanie Preston, Floor Kouwenberg, Lucien Martijn, Sophie Vos, and Chuyi Tong
 
 In our system, the user can specify colors of boxes that need to be found. For each color, a specific rover 
 is being built in the rover factory that searches for that specific color. Once the Rover has found the specific color, 
